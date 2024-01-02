@@ -11,6 +11,10 @@ If you encounter any issues while playing with the modpack, you may report those
 
 ## CHANGELOG
 
+### v0.1.0
+
+Added plenty of mods
+
 ### v0.0.1
 
 Initial commit
